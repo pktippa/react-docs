@@ -1,2 +1,3 @@
-# react-docs
-React help docs
+# React help docs
+
+[CLI](react-cli.md)
